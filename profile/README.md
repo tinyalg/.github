@@ -1,6 +1,6 @@
-# Welcome to Tinyalg Systems
+# Welcome to TinyAlg
 
-**Tinyalg Systems** is a **personal passion project** specializing in efficient algorithms and digital well-being tools. Designed to empower developers and users to achieve real-time performance and regain control of their attention.
+**TinyAlg** is a **personal passion project** specializing in efficient algorithms and digital well-being tools. Designed to empower developers and users to achieve real-time performance and regain control of their attention.
 
 ## 🚀 Featured Product: Watchtime Badge
 **Stop Binge-Watching Today.**
@@ -24,4 +24,4 @@ I believe that even tiny algorithms can create impactful solutions when equipped
 ---
 **Project Website**: [tinyalg.be](https://tinyalg.be)
 
-*Designed and maintained by Tinyalg Systems.*
+*Designed and maintained by TinyAlg.*

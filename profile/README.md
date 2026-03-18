@@ -1,6 +1,6 @@
 # Welcome to TinyAlg
 
-**TinyAlg** is a digital hub showcasing lwgena's passion projects, specializing in efficient algorithms and digital well-being tools. It is designed to empower developers and users to achieve real-time performance and regain control of their attention.
+**TinyAlg** is a personal initiative by lwgena showcasing passion projects at the intersection of tiny algorithms and digital well-being. Explore open-source tools, technical insights, and projects designed for a healthier digital life.
 
 ## 🚀 Featured Product: Watchtime Badge
 **Stop Binge-Watching Today.**
